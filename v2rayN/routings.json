@@ -1,0 +1,10 @@
+{
+  "version": "MaximV",
+  "routingItems": [
+    {
+      "remarks": "Заблокированное и мессенджеры",
+      "domainStrategy": "IPOnDemand",
+      "url": "https://raw.githubusercontent.com/max-crow/russia-v2ray-custom-routing-list/main/v2rayN/only_blocked_and_messangers.json"
+    }
+  ]
+}
